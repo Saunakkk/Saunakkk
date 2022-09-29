@@ -4,7 +4,6 @@ I'm Saunak from India and I'm a Full Stack Web Developer
 
 Skills: Node.js / EJS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: Email: sutradharsaunak@gmail.com/ 2004331@kiit.ac.in 
 
 
