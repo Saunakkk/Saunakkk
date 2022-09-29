@@ -12,6 +12,6 @@ Skills: Node.js / EJS / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saunakkk)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Saunakkk)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saunakkk&show_icons=true)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saunakkk)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/Saunakkk)  
