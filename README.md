@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently working on my personal Blog website<br>I am looking to collaborate on open source projects<br>I am currently learning Backend Development
+I am currently working on a FullStack Chat Application<br>I am looking to collaborate on open source projects<br>I am currently learning Backend Development
 
 
 # 💻 Tech Stack:
